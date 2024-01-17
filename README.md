@@ -1,1 +1,1 @@
-Custom ESLint config.
+ESLint config.
