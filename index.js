@@ -12,7 +12,6 @@ module.exports = {
     'plugin:import/typescript',
     'plugin:react-hooks/recommended',
     'plugin:react/recommended',
-    'prettier'
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
